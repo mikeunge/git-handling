@@ -1,3 +1,7 @@
 # Git-Handling
 
-Test differences between git merge | squash & merge | rebase.
+Test differences between git merge.
+We test only merge !!!
+
+
+merge ftw :))))
