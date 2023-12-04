@@ -1,2 +1,4 @@
 # Changelog
-- v1.0.0 : First release
+
+- v1.0.0
+  - First release
